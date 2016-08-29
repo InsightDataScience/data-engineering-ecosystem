@@ -1,0 +1,1 @@
+Hadoop MapReduce images
